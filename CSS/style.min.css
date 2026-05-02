@@ -939,7 +939,7 @@ li:nth-child(3) .input:focus {
     background: linear-gradient(to left, #19242d, #112736, #262338);
     overflow-x: hidden;
   }
-  .loader {
+  .loader-aye {
     left: 55%;
     top: 23%;
     width: 6.5em;
