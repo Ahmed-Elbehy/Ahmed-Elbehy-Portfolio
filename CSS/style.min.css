@@ -23,7 +23,7 @@ body {
   position: fixed;
   width: 100%;
   justify-content: center;
-  background-color: red;
+  /* background-color: red; */
   transition: all 1s;
   z-index: 999;
   top: 0;
@@ -949,6 +949,14 @@ li:nth-child(3) .input:focus {
     top: -1rem;
     width: 6.5em;
   }
+  @keyframes text-skills {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 30rem;
+  }
+}
   .loader::after,
   .loader::before {
     animation: eyeMove 5.8s;
