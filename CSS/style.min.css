@@ -22,6 +22,8 @@ body {
 .nave-box {
   position: fixed;
   width: 100%;
+  justify-content: center;
+  background-color: red;
   transition: all 1s;
   z-index: 999;
   top: 0;
