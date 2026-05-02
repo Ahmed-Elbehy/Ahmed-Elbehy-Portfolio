@@ -170,7 +170,7 @@ body {
   position: relative;
   top: 5rem;
 }
-.loader {
+.loader-aye{
   position: absolute;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -178,8 +178,8 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.loader::after,
-.loader::before {
+.loader-aye::after,
+.loader-aye::before {
   content: "";
   display: inline-block;
   width: 48px;
