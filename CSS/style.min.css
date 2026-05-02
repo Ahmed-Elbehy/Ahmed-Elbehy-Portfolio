@@ -36,11 +36,11 @@ body {
 }
 .navbar {
   background: linear-gradient(to left, #1e1b1b, #232222);
-  padding-inline: 0.8rem;
+  /* padding-inline: 0.8rem; */
 }
 .navbar-brand {
   color: var(--text-maine) !important;
-  font-size: 2rem;
+  font-size: 2em;
   letter-spacing: 0.3rem;
   transition: all 0.5s;
 }
