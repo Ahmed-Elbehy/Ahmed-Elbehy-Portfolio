@@ -915,6 +915,9 @@ li:nth-child(3) .input:focus {
   }
 }
 @media only screen and (min-width: 600px) and (max-width: 991px) {
+  .navbar {
+  width: 50%;
+}
   .personal-image {
     margin-top: 5rem;
     width: 150px;
