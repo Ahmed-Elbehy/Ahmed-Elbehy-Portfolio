@@ -283,7 +283,7 @@ body {
   font-size: 1.2rem;
   line-height: 2rem;
   width: 0;
-  background-color: greenyellow;
+  /* background-color: greenyellow; */
   white-space: nowrap;
   overflow: hidden;
   animation: text-skills 4s 7s steps(50, end) forwards;
