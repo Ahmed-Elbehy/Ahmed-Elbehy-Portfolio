@@ -11,7 +11,5 @@ window.onscroll = () => {
     navebar.classList.remove("navbar-visible");
     navebar.classList.add("navbar-hidden");
   }
-
   lastScrollTop = scrollTop;
-  console.log(scrollTop);
 };
